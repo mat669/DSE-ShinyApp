@@ -1,12 +1,6 @@
-# greatpository
 ---
-title: "Cryptocurrencies analysis"
-output: html_document
+Cryptocurrencies analysis
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 *If you want to invest your money in cryptocurrencies, let you be helped by this app!*
 
